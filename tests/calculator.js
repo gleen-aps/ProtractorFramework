@@ -10,7 +10,7 @@ describe('Calculator test', () => {
 
         element(by.cssContainingText('.ng-binding', '5'));
 
-        browser.sleep(3000);
+        browser.sleep(2000);
 
     });
 
